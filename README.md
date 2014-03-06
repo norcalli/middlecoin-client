@@ -11,6 +11,7 @@ Simple middlecoin client written in Go. A demonstration of my API I've written, 
 ```
 Usage: middlecoin-client <address1> <address2> ...
 ```
+Specify multiple addresses to lookup up multiple at the same time. If you specify multiple addresses, it will aggregate them and print out the sum as well.
 
 ##Example:
 ```
