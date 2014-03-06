@@ -7,8 +7,6 @@ import (
 	"log"
 )
 
-const url = "http://www.middlecoin.com/json"
-
 func main() {
 	flag.Parse()
 	addresses := flag.Args()
